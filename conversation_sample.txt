@@ -1,0 +1,45 @@
+============================================================
+                PYBOT CONVERSATION SAMPLE
+============================================================
+
+User: hello
+PyBot: Hello! Nice to meet you. How can I help you?
+
+User: what is your name
+PyBot: My name is PyBot, your Python chatbot.
+
+User: how are you
+PyBot: I'm doing great! Thanks for asking.
+
+User: what can you do
+PyBot: I can greet you, tell you the date and time,
+       perform simple calculations, and answer basic questions.
+
+User: time
+PyBot: The current time is displayed according to the computer's
+       current system time.
+
+User: date
+PyBot: Today's date is displayed according to the computer's
+       current system date.
+
+User: calculate
+
+Simple Calculator:
+First number: 25
+Operator: *
+Second number: 4
+Result: 100
+
+User: python
+PyBot: Python is a popular programming language used for many applications.
+
+User: thank you
+PyBot: You're welcome! I'm happy to help.
+
+User: bye
+PyBot: Goodbye! Have a great day!
+
+============================================================
+End of Conversation
+============================================================
